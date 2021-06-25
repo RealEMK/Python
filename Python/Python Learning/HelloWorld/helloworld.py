@@ -5,3 +5,4 @@ print()
 print("The End.","...or is it?","Quick mafs", 3 * 2)
 
 print("boobas")
+print("Nom nom")
